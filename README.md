@@ -1,1 +1,2 @@
-este repositorio es una prueba de como crear un repositorio en github y clonarlo desde github a mi computadora..
+Max grella
+este proyecto bla bla bla
