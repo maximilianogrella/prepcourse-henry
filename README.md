@@ -1,1 +1,1 @@
-este repositorio es una prueba de como crear un repositorio en github y clonarlo desde github a mi computadora.
+este repositorio es una prueba de como crear un repositorio en github y clonarlo desde github a mi computadora..
